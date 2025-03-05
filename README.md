@@ -38,6 +38,3 @@ The technologies used for this app are:
 
 ### 1. Clone the Repository
 Clone the project to your local machine using Git:
-
-```bash
-git clone https://github.com/your-username/flutter_ecommerce_app.git
