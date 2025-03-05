@@ -29,12 +29,21 @@ The technologies used for this app are:
 - **HTTP**: Used to make API calls to perform CRUD operations.
 - **JSON**: For serializing and deserializing data fetched from the API.
 
-## Prerequisites
-- **Flutter SDK** installed on your machine.
-- **IDE** like VS Code or Android Studio.
-- Basic knowledge of **Flutter** and **Dart programming**.
+## Getting Started
+# E-commerce App
+
+A simple Flutter application that demonstrates CRUD (Create, Read, Update, Delete) operations with API integration.
 
 ## Getting Started
 
-### 1. Clone the Repository
-Clone the project to your local machine using Git:
+This project is a starting point for a Flutter application.
+
+### Resources to get you started:
+
+- **Lab**: [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- **Cookbook**: [Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+- [Flutter Documentation](https://flutter.dev/docs)
+- [Dart Documentation](https://dart.dev/guides)
