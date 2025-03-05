@@ -1,11 +1,39 @@
-ecomers_app
-A new Flutter project.
+## Overview
+This app allows users to perform the following actions on products:
 
-Getting Started
-This project is a starting point for a Flutter application.
+- **View** a list of products fetched from an API.
+- **Add** new products to the list.
+- **Update** existing product details.
+- **Delete** products from the list.
 
-A few resources to get you started if this is your first Flutter project:
+### Features:
+- **Create**: Add new products with details such as name, description, price, and image.
+- **Read**: Display a list of products fetched from an API.
+- **Update**: Modify details of an existing product.
+- **Delete**: Remove products from the list.
 
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+### Additional Features:
+- **State Management**: Uses **Provider** for managing the app’s state.
+- **API Integration**: **HTTP package** is used for making API calls.
+- **UI**: Simple user interface to display and manage products.
+
+## Technology Stack
+The technologies used for this app are:
+
+- **Flutter**: The primary framework used to build the app.
+- **Provider**: A state management solution for managing app data and UI state.
+- **HTTP**: Used to make API calls to perform CRUD operations.
+- **JSON**: For serializing and deserializing data fetched from the API.
+
+## Prerequisites
+- **Flutter SDK** installed on your machine.
+- **IDE** like VS Code or Android Studio.
+- Basic knowledge of **Flutter** and **Dart programming**.
+
+## Getting Started
+
+### 1. Clone the Repository
+Clone the project to your local machine using Git:
+
+```bash
+git clone https://github.com/your-username/flutter_ecommerce_app.git
