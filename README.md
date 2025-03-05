@@ -1,3 +1,7 @@
+# Flutter E-commerce App with API Integration
+
+A simple Flutter application demonstrating CRUD (Create, Read, Update, Delete) operations for managing products in an e-commerce app, with integration to a remote API.
+
 ## Overview
 This app allows users to perform the following actions on products:
 
